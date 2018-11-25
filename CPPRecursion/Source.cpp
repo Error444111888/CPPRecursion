@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-using namespace std;
+using namespace std; 
 
 /* When you have a recursive function. Make sure to have a base which is the end point for the function. When the functions solves that base, then it can solve the rest of it like below */
 int factorialCalculator(int x)
