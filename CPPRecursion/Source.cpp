@@ -18,12 +18,10 @@ int factorialCalculator(int x)
 }
 
 
-
 int main()
 {
 
-	cout << factorialCalculator(10) << endl; // << This puts a value on the x
-
+	cout << factorialCalculator(10) << endl; // <<< This puts a value on the x
 
 
 	cin.get();
